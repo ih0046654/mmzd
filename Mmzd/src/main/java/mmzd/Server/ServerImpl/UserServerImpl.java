@@ -1,5 +1,7 @@
 package mmzd.Server.ServerImpl;
 
-public class UserServerImpl {
+import mmzd.Server.UserServer;
+
+public class UserServerImpl implements UserServer{
 
 }
